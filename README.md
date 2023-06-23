@@ -50,11 +50,8 @@ DESIGN DESCRIPTION
 
 •	According to the inputs given to the enable pins the output will be displayed as follows
 
-S0	      S1	      OUTPUT DISPLAYED FROM
-0  	      0        	        BLOCK 1
-0	        1        	        BLOCK 2
-1	        0	                BLOCK 3
-1	        1	                BLOCK 4
+![image](https://github.com/ChinmaiChowdary/Realisation_of_32X8-_ROM_using_Xilinx_SysGen/assets/119433702/e1a0d818-2258-48cb-a20b-889593aac00a)
+
 
 
 RESULT
