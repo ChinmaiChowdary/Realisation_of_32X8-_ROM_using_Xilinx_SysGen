@@ -1,5 +1,5 @@
 # Realisation_of_32X8-_ROM_using_Xilinx_SysGen
-Xilinx System Generator for DSP (SysGen) is a MATLAB Simulink add-on that enables the development of architecture-level FPGA designs using graphical blocks programming. Simulink allows users to simulate their ideas, which may be packaged as a Vivado IP and quickly imported into a Vivado project.
+Xilinx System Generator for DSP (SysGen) is a MATLAB Simulink add-on that enables the development of architecture-level FPGA designs using graphical block programming. Simulink allows users to simulate their ideas, which may be packaged as a Vivado IP and quickly imported into a Vivado project.
 
 
 REALISATION OF 32X8 ROM USING 8X8 ROM
@@ -50,11 +50,11 @@ DESIGN DESCRIPTION
 
 •	According to the inputs given to the enable pins the output will be displayed as follows
 
-S0	S1	OUTPUT DISPLAYED FROM
-0  	0        	BLOCK 1
-0	  1        	BLOCK 2
-1	  0	        BLOCK 3
-1	  1	        BLOCK 4
+S0	      S1	      OUTPUT DISPLAYED FROM
+0  	      0        	        BLOCK 1
+0	        1        	        BLOCK 2
+1	        0	                BLOCK 3
+1	        1	                BLOCK 4
 
 
 RESULT
